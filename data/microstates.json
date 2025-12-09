@@ -1,0 +1,9 @@
+[
+  { "timestamp": 0.0, "state": "avoidance" },
+  { "timestamp": 2.5, "state": "masking" },
+  { "timestamp": 6.0, "state": "low_disclosure" },
+  { "timestamp": 9.0, "state": "flat_affect" },
+  { "timestamp": 12.0, "state": "transition" },
+  { "timestamp": 14.0, "state": "attempt_disclose" },
+  { "timestamp": 18.0, "state": "shutdown" }
+]
